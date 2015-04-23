@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="java"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/emma.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/emma_ant.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/development/memcached/Memcached-Java-Client-Performance/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qinxin/Downloads/jmemcached-core-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
